@@ -57,7 +57,7 @@ msgstr "(Profilo predefinito)"
 
 #: src/webui/doc_md.c:129
 msgid "(Read-only)"
-msgstr ""
+msgstr "(Solo lettura)"
 
 #: src/input/mpegts/linuxdvb/linuxdvb_switch.c:70
 msgid "0"
@@ -219,7 +219,7 @@ msgstr "A"
 
 #: src/dvr/dvr_autorec.c:1064
 msgid "A channel tag (e.g. a group of channels) to which this rule applies."
-msgstr ""
+msgstr "Un tag del canale (es. un gruppo di canali) a cui applicare questa regola"
 
 #: src/input/mpegts/linuxdvb/linuxdvb_satconf.c:353
 #: src/input/mpegts/linuxdvb/linuxdvb_switch.c:57
@@ -367,7 +367,7 @@ msgstr "AUTO"
 
 #: src/streaming.c:476
 msgid "Aborted by user"
-msgstr "Abortito dall'utente"
+msgstr "Annullato dall'utente"
 
 #: src/satip/server.c:625
 msgid "Accept remote subscription weight"
@@ -379,7 +379,7 @@ msgstr ""
 
 #: src/input/mpegts/mpegts_mux.c:658 src/input/mpegts/iptv/iptv.c:898
 msgid "Accept zero value for TSID"
-msgstr ""
+msgstr "Accettare lo zero come valore TSID"
 
 #: src/access.c:1408
 msgid "Access"
@@ -408,11 +408,11 @@ msgstr "Aggiungi l'ID del thread per il debug"
 
 #: src/epggrab/module.c:186
 msgid "Additional arguments to pass to the grabber."
-msgstr ""
+msgstr "Argomenti aggiuntivi da trasmettere al grabber"
 
 #: src/epggrab/channel.c:807
 msgid "Additional service names found in EPG data."
-msgstr ""
+msgstr "Nomi di servizi aggiuntivi trovati nei dati EPG"
 
 #: src/dvr/dvr_config.c:949
 msgid ""
